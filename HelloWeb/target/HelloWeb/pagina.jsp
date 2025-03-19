@@ -8,7 +8,7 @@
     <h2>Benvenuto utente curioso</h2>
     <h2>Questa è la mia prima JSP</h2>
  
-    <h2>Parrini Gabriele</h2>
+    <h2>Palumbo Nicole</h2>
     <h2>5CI</h2>
     
     <h2><p>Oggi è il:
